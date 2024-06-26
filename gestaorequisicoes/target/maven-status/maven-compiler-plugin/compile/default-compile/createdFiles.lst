@@ -1,0 +1,6 @@
+com\seuprojeto\gestaorequisicoes\database\Database.class
+com\seuprojeto\gestaorequisicoes\GestaoRequisicoesApplication.class
+com\seuprojeto\gestaorequisicoes\model\Item.class
+com\seuprojeto\gestaorequisicoes\controller\ItemController.class
+com\seuprojeto\gestaorequisicoes\model\Requisicao.class
+com\seuprojeto\gestaorequisicoes\controller\RequisicaoController.class
